@@ -1,2 +1,2 @@
-#ifndef CIPHER_H
+#ifdef CIPHER_H
 #define CIPHER_H
